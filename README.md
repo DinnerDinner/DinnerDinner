@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game dev, AI, ML, NLP
 - 🌱 I’m currently learning C#, Python
 - 💞️ I’m looking to collaborate on a scavenger hunt game
-- 📫 How to reach me; email; singhpranjwal@gmail.com  --  insta; [https://www.instagram.com/ps_dinnerdinner/](url)  discord; dinnerdinner
+- 📫 How to reach me; email; singhpranjwal@gmail.com  --  insta; https://www.instagram.com/ps_dinnerdinner/ discord; dinnerdinner
 - 😄 Pronouns: see you/space cowboy
 
 
